@@ -1,5 +1,5 @@
 # Superglance for Scriptable
-Superglance is a Scriptable widget for iOS that shows calendar, events and reminders:
+Superglance is a Scriptable widget for iOS that shows calendar, events and reminders in a neat and compact way:
 
 ![9AB49DB6-D121-49E6-9849-5D1DBF297AB6](https://user-images.githubusercontent.com/6173351/137411891-50ee97e1-4781-4cac-914f-e0e514a2d64e.jpeg)
 
